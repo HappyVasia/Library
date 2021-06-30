@@ -1,0 +1,45 @@
+h1{
+	font-size:50px;
+	font-weight:bolder;
+	font-stretch:extra-expanded;
+	color:orangered;
+	margin-right:20px;
+	margin-bottom: 0px;
+	margin-top:5px;
+	text-align:center;
+}
+.block{
+	font-size:50px;
+    background: orange; 
+    color:black; 
+    text-align:center;
+    text-decoration: none; 
+    border-radius:35px; 
+	width:400px;
+	padding:10px;
+   	display:flex;
+    justify-content:space-evenly;
+	flex-wrap:wrap;
+	margin-left:950px;
+	margin-bottom:0px;
+}
+table{
+	border-collapse:collapse;
+	border: 10px solid gray;
+ }
+th{
+	border: 5px solid gray;
+	background-color: Grey;
+}
+td{
+	border: 2px solid gray;
+}
+td:hover{
+	background:gray;
+	color:white;
+}
+.block:hover{
+	background:black;
+	color:orange;
+}
+

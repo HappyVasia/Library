@@ -1,0 +1,48 @@
+body{
+	background-color:silver;
+}
+h1{
+	font-size:50px;
+	font-weight:bolder;
+	font-stretch:extra-expanded;
+	color:orangered;
+}
+.click{
+	position:absolute; 
+	font-size:30px;
+    background: orange; 
+    color:black; 
+	font-weight:bolder;
+    text-align:center;
+    text-decoration: none; 
+    border-radius:35px; 
+	width:170px;
+	padding:10px;
+}
+table{
+	border-collapse:collapse;
+	border: 10px solid gray;
+	margin-left:120px;
+	margin-top:30px;
+ }
+th{
+	border: 5px solid gray;
+	background-color: Grey;
+}
+td{
+	border: 2px solid gray;
+}
+td:hover{
+	background:gray;
+	color:white;
+}
+.click:hover{
+	background:black;
+	color:orange;
+}
+
+
+
+
+
+

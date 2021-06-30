@@ -1,0 +1,43 @@
+body{
+	background-color:sandybrown;
+}
+h1{ 
+   font-size:45px;
+   font-weight:bolder;
+   font-stretch:extra-expanded;
+   color:black;
+   margin:30px;
+}
+.forms{
+	background-color:darkgray; 
+	position:absolute;
+	width:350px; 
+	margin-left:400px;
+    padding:40px; 
+	border-color:black;
+	border-width:20px;
+    border-radius:30px;
+}
+type ="text{
+   font-size:125px;
+   font-weight:bolder;
+   font-stretch:extra-expanded;
+   color:orangered;
+}
+.back{
+	position:absolute; 
+	left:0px; top:0px;
+    background:black;
+	color:orangered; 
+	font-weight:bolder;
+}
+
+
+
+
+
+
+
+
+
+
